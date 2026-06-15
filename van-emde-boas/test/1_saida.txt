@@ -1,0 +1,16 @@
+IMP
+Min: 20, C[0]: 40
+IMP
+Min: NIL
+IMP
+Min: NIL
+IMP
+Min: NIL
+IMP
+Min: 5, C[0]: 25
+IMP
+Min: 5, C[0]: 25
+IMP
+Min: 5, C[0]: 25, C[10]: 655370, 655380
+IMP
+Min: 5, C[0]: 25

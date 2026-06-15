@@ -1,0 +1,24 @@
+IMP
+Min: 10, C[0]: 20, 30, 40, 50, 60
+SUC 20
+30
+SUC 25
+30
+SUC 60
++INF
+PRE 40
+30
+PRE 35
+30
+PRE 10
+-INF
+IMP
+Min: 10, C[0]: 20, 40, 60
+SUC 20
+40
+PRE 40
+20
+IMP
+Min: 20, C[0]: 40
+IMP
+Min: NIL
